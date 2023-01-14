@@ -134,7 +134,7 @@ subprojects {
         pom {
           name.set(project.name)
           description.set(project.description)
-          url.set("https://github.com/juliarn/NPC-Lib")
+          url.set("https://github.com/ratiorip/NPC-Lib")
 
           licenses {
             license {
@@ -152,12 +152,12 @@ subprojects {
 
           issueManagement {
             system.set("GitHub Issues")
-            url.set("https://github.com/juliarn/NPC-Lib/issues")
+            url.set("https://github.com/ratiorip/NPC-Lib/issues")
           }
 
           ciManagement {
             system.set("GitHub Actions")
-            url.set("https://github.com/juliarn/NPC-Lib/actions")
+            url.set("https://github.com/ratiorip/NPC-Lib/actions")
           }
 
           withXml {
